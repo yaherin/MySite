@@ -18,7 +18,7 @@ function SetPlayersNames() {
 }
 
 var firstThis;
-var images = ["img/light.JPG", "img/empty.JPG", "img/p1.JPG", "img/p2.JPG", "img/king1.JPG","img/king2.JPG"];
+var images = ["img/light.jpg", "img/empty.jpg", "img/p1.jpg", "img/p2.jpg", "img/king1.jpg","img/king2.jpg"];
 var damka =
     [
         [0, 2, 0, 2, 0, 2, 0, 2],
